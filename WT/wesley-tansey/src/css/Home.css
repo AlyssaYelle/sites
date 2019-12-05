@@ -1,7 +1,18 @@
 .wtIMG {
-  background: black;
-  height: 300px;
-  width: 300px;
+  width: 50%;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+.info{
+  width: 40%;
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 section {
@@ -25,6 +36,31 @@ section {
   color: #2b3b33;
 }
 
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
 p {
-  color: black;
+  font-size: 16px;
+  margin-top: 16px;
+  line-height: 20px;
+}
+
+.side {
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #367041;
+  transition: color .5s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
 }
