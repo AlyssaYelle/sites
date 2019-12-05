@@ -5,8 +5,7 @@ const Pubs = {
         authors: 'W. Tansey, J. H. Loper, L. Lei, and W. Fithian',
         journal: 'Preprint',
         date: 'November 2019',
-        paper: 'https://arxiv.org/abs/1911.09200',
-        code: 'code coming soon'
+        paper: 'https://arxiv.org/abs/1911.09200'
       },
       {
         title: 'Relational Dose-Response Modeling for Cancer Drug Studies',
@@ -31,8 +30,7 @@ const Pubs = {
       authors: 'W. Tansey, K. Li, H. Zhang, S. W. Linderman, D. M. Blei, R. Rabadan, and C. H. Wiggins',
       journal: 'Preprint',
       date: 'December 2018',
-      paper: 'https://arxiv.org/abs/1812.05691',
-      code: 'code coming soon'
+      paper: 'https://arxiv.org/abs/1812.05691'
     },
     {
       title: 'The Holdout Randomization Test: Principled and Easy Black Box Feature Selection',
@@ -144,7 +142,8 @@ const Pubs = {
     {
       title: 'Trailblazer: A Tool for Automated Annotation Refactoring.',
       authors: 'M. Song, E. Tilevich, and W. Tansey.',
-      journal: 'An OOPSLA 2009 Tool Demo.'
+      journal: 'An OOPSLA 2009 Tool Demo.',
+      date: '2009'
     },
     {
       title: 'DeXteR - An Extensible Framework for Declarative Parameter Passing in Distributed Object Systems.',
